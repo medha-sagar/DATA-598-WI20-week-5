@@ -16,3 +16,5 @@ Imports:
     dplyr (>= 0.8.4)
     tidyverse
     here
+URL: https://github.com/medha-sagar/mysimplecompendium
+BugReports: https://github.com/medha-sagar/mysimplecompendium/issues
