@@ -1,0 +1,18 @@
+Package: mysimplecompendium
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Medha Sagar
+Maintainer: sagarme@uw.edu [!https://orcid.org/0000-0001-9942-9429]
+Description: A very simple package
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Imports: 
+    dplyr (>= 0.8.4)
+    tidyverse
+    here
